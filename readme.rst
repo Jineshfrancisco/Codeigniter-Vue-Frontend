@@ -23,16 +23,20 @@ latest stable release.... please visit the `CodeIgniter Downloads
 
 if you want to use Bootstrap
 add bootstrap dependency to your package.json file
+
 "jquery": "^3.5.1",
+
 "bootstrap": "^4.4.1",
+
 "popper.js": "^1.12",
- run command npm install 
+
+ run command: `npm install`
 
 
 *******************
 Server Requirements
 *******************
-npm 12.16.3 or newer
+nodejs 12.16.3 or newer
 
 PHP version 7.2 or newer is recommended.
 

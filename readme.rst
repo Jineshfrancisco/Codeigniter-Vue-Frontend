@@ -61,7 +61,7 @@ of the CodeIgniter User Guide.
 License
 *******
 
-Please see the `license`_ file.
+Please see the `license <https://github.com/Jineshfrancisco/Codeigniter-Vue-Frontend/blob/master/License>`_ file.
 
 *********
 Resources

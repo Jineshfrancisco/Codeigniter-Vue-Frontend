@@ -9,8 +9,12 @@
 				<p>Build on Top Codeigniter 3.1.11</p>
 			</div>
 			<div class="message-body">
-				A simple Vue frontend scaffolding for your Codeigniter Back-end .
-				<p>Developed by Jinesh Francisco</p>
+				"<span
+					class="txt-type joe-color"
+					data-wait="2000"
+					data-words='["A simple Vue frontend scaffolding for your Codeigniter Back-end . Developed by Jinesh Francisco"]'
+				></span
+				>"
 			</div>
 		</div>
 	</div>
@@ -20,6 +24,6 @@
 export default {
 	mounted() {
 		console.log("Component mounted.");
-	}
+	},
 };
 </script>
